@@ -6,7 +6,7 @@ Meu nome é Rafael
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos no curso
 
-### Você pode entrar em contato comigo :mailbox
+### Você pode entrar em contato comigo :mailbox:
 
 rafael.silva.quadros@escola.pr.gov.br
 
